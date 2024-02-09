@@ -8,7 +8,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consum
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFolder", "SolutionFolder", "{3AD3A562-3893-4BE9-B68B-8D21F0468036}"
 	ProjectSection(SolutionItems) = preProject
-		.idea\.idea.MQ\.idea\.gitignore = .idea\.idea.MQ\.idea\.gitignore
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Global
