@@ -1,0 +1,17 @@
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\bin\Debug\net7.0\Producer.exe
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\bin\Debug\net7.0\Producer.deps.json
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\bin\Debug\net7.0\Producer.runtimeconfig.json
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\bin\Debug\net7.0\Producer.dll
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\bin\Debug\net7.0\Producer.pdb
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.csproj.AssemblyReference.cache
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.AssemblyInfoInputs.cache
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.AssemblyInfo.cs
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.csproj.CoreCompileInputs.cache
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.csproj.CopyComplete
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.dll
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\refint\Producer.dll
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.pdb
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\Producer.genruntimeconfig.cache
+C:\Users\gerasimovea\RiderProjects\MQ\Producer\obj\Debug\net7.0\ref\Producer.dll
