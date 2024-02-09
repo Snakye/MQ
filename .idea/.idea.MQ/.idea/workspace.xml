@@ -11,11 +11,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23742e05-a322-4cef-8f02-89fdad919315" name="Changes" comment="">
+    <list default="true" id="23742e05-a322-4cef-8f02-89fdad919315" name="Changes" comment="Fix">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.MQ/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.MQ/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Consumer/obj/Debug/net7.0/Consumer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Consumer/obj/Debug/net7.0/Consumer.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MQ.sln" beforeDir="false" afterPath="$PROJECT_DIR$/MQ.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Producer/obj/Debug/net7.0/Producer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Producer/obj/Debug/net7.0/Producer.assets.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +20,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
@@ -146,8 +148,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707483017145</updated>
-      <workItem from="1707483018163" duration="2061000" />
+      <workItem from="1707483018163" duration="3404000" />
     </task>
+    <task id="LOCAL-00001" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1707485120394</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707485120394</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1707486300277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707486300278</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fix">
+      <option name="closed" value="true" />
+      <created>1707486307907</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707486307907</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,5 +194,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix" />
   </component>
 </project>
